@@ -1,5 +1,6 @@
+<img width="1920" height="1080" alt="marine_saas_v5" src="https://github.com/user-attachments/assets/8363216e-9cd0-47eb-a726-c57361c4c4c3" />
 <div align="center">
-  <img src="Marine_SaaS_V5.jpeg" alt="Marine SaaS Preview" width="100%">
+  <img src="marine_saas_v5.jpeg" alt="Marine SaaS Preview" width="100%">
   <p><i>Marine SaaS V5 - Modern Marketplace Interface</i></p>
 </div>
 
