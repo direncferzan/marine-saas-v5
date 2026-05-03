@@ -1,0 +1,108 @@
+/* --- MARINE SAAS GLOBAL CSS (YEMEKSEPETI REDESIGN) --- */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800;900&display=swap");
+
+:root {
+  --ys-red: #fa0050;
+  --ys-red-hover: #d90045;
+  --ys-bg: #f7f7f7;
+  --ys-white: #ffffff;
+  --ys-text: #191919;
+  --ys-muted: #64748b;
+  --ys-border: #e2e8f0;
+  --ys-shadow: 0 4px 25px rgba(0, 0, 0, 0.08);
+  --radius-xl: 20px;
+  --radius-lg: 14px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+body {
+  background-color: var(--ys-bg);
+  color: var(--ys-text);
+  overflow-x: hidden;
+}
+
+/* Header & Navigation */
+.topbar {
+  background: var(--ys-white);
+  height: 80px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--ys-border);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.02);
+}
+
+.app-shell {
+  width: min(1300px, calc(100% - 40px));
+  margin: 0 auto;
+}
+
+/* Admin Watchdog Console Style */
+.watchdog-terminal {
+  background: #0f172a;
+  color: #10b981;
+  font-family: "monospace";
+  padding: 15px;
+  border-radius: 12px;
+  font-size: 13px;
+  border-left: 5px solid var(--ys-red);
+  margin: 20px 0;
+}
+
+/* Restaurant Card & Hero */
+.res-card {
+  background: white;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  box-shadow: var(--ys-shadow);
+  cursor: pointer;
+}
+
+.res-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 35px rgba(250, 0, 80, 0.1);
+}
+
+/* Product Customizer Modal */
+.modifier-badge {
+  background: #f1f5f9;
+  padding: 6px 12px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  border: 1px solid transparent;
+}
+
+.modifier-badge.active {
+  border-color: var(--ys-red);
+  background: #fff1f5;
+  color: var(--ys-red);
+}
+
+.btn-ys {
+  background: var(--ys-red);
+  color: white;
+  border: none;
+  padding: 14px 28px;
+  border-radius: 12px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.btn-ys:hover {
+  background: var(--ys-red-hover);
+  transform: scale(1.02);
+}
