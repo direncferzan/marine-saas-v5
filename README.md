@@ -1,10 +1,7 @@
-<img width="1920" height="1080" alt="marine_saas_v5" src="https://github.com/user-attachments/assets/8363216e-9cd0-47eb-a726-c57361c4c4c3" />
 <div align="center">
-  <img src="marine_saas_v5.jpeg" alt="Marine SaaS Preview" width="100%">
+  <img src="a.jpeg" alt="Marine SaaS Preview" width="100%">
   <p><i>Marine SaaS V5 - Modern Marketplace Interface</i></p>
 </div>
-
-
 
 # 🌊 Marine SaaS V5: The Watchdog Edition
 
@@ -33,8 +30,4 @@ A high-performance, modern multivendor marketplace framework designed for scale 
 
 ## 📸 Preview
 
-> "Order from top restaurants in one place - A premium food delivery platform simulation"[cite: 9].
-
----
-
-Developed with 0xFFFF logic.
+> "Order from top restaurants in one place - A premium food delivery platform simulation"[cite: 9].<img width="1920" height="1080" alt="a" src="https://github.com/user-attachments/assets/40a2a6a5-a07a-4d01-9545-e13502bfe2b9" />
