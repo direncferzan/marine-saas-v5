@@ -30,4 +30,8 @@ A high-performance, modern multivendor marketplace framework designed for scale 
 
 ## 📸 Preview
 
-> "Order from top restaurants in one place - A premium food delivery platform simulation"[cite: 9].<img width="1920" height="1080" alt="a" src="https://github.com/user-attachments/assets/40a2a6a5-a07a-4d01-9545-e13502bfe2b9" />
+> "Order from top restaurants in one place - A premium food delivery platform simulation"[cite: 9].
+
+---
+
+Developed with 0xFFFF logic.
